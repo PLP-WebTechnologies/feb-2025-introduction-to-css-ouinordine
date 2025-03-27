@@ -1,0 +1,37 @@
+body {
+    background-color: bisque;
+    font-family: 'Comic Sans MS';
+    text-align: justify;
+}
+
+.red {
+    color: red;   
+}
+
+.white {
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    width: 500;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#submitbtn {
+    border-radius: 3px;
+    color: lightblue;
+    width: 250px;
+    text-align: center;
+}
+
+table {
+    border: 1;
+}
